@@ -27,6 +27,7 @@ Git Commands:
     -adds file to be committed to repository
 <br>
     -'-A' instead of *file* adds all files in current directory
+
 <br><br>
   
   'git commit'
@@ -36,6 +37,7 @@ Git Commands:
     -use '-m "<message>"' to add a message
 <br>
       -if you dont use '-m, type multi-line message (or none), then hit 'esc' & type ':wq' to commit
+
 <br><br>
   
   'git push'
